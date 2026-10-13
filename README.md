@@ -44,12 +44,15 @@ Built using **Power Query, Excel Tables, PivotTables, PivotCharts, `COUNTIFS`/`S
 
 Final screenshots will be added after workbook corrections and layout cleanup:
 
-| Preview | File to add |
-|---|---|
-| Full dashboard | [`assets/screenshots/dashboard-overview.png`](assets/screenshots/README.md) |
-| City filter example | [`assets/screenshots/city-filter.png`](assets/screenshots/README.md) |
-| Data-quality summary | [`assets/screenshots/data-quality.png`](assets/screenshots/README.md) |
+## Dashboard Preview
 
+![VoltRoute Dashboard](dashboard-overview.png)
+
+### Interactive City Filtering
+![City Filter](city-filter.png)
+
+### Data Quality Analysis
+![Data Quality](data-quality.png)
 ## Key insights
 
 - **Gurugram** has the highest **all-status recorded energy** among the eight cities: **3,848.79 kWh**.
