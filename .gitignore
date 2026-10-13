@@ -1,0 +1,18 @@
+# Excel temporary/lock files
+~$*.xlsx
+~$*.xlsm
+*.tmp
+*.bak
+
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Notebook/Python artefacts (if extended later)
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.env
+.env.*
